@@ -78,10 +78,10 @@ INSERT INTO `tb_item_pedido` (`cod_pedido`, `cod_produto`, `quantidade`) VALUES
 	(98, 31, 35),
 	(98, 77, 5),
 	(101, 13, 5),
-	(119, 13, 6),
-	(119, 77, 40),
-	(121, 25, 10),
-	(137, 13, 8);
+	(103, 13, 6),
+	(103, 77, 40),
+	(104, 25, 10),
+	(120, 13, 8);
 
 INSERT INTO `tb_produto` (`id_produto`, `descricao`, `unidade`, `valor_unitario`, `estoque`) VALUES
 	(13, 'Ouro', 'G', 300.00, 15),
